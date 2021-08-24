@@ -1,2 +1,6 @@
 # Project exclude paths
 /target/
+.idea
+resources
+test
+.gitignore
